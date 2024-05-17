@@ -7,7 +7,7 @@ author_profile: true
 
 I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong Kong, under the supervision of Professor Zili SHAO. My research focuses on indexing, database systems, and storage systems.
 
-# Education Background
+## Education Background
 
 ---
 
@@ -16,20 +16,20 @@ I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong
 - 2014-2018,      Qingdao University,                         Bachelor of Software Engineering   
 
 
-# Research/Intern Experience
+## Research/Intern Experience
 
 ---
 
 - 2024.06-,        Research Intern at Huawei
 - 2022.07,         CCF CHIP-2022  Invited PhD Forum Speaker
 
-# Teaching
+## Teaching
 
 ---
 
 - 2021, 2022,       Teaching Assistant for CSCI3150 Introduction to Operating Systems
 
-# Publications
+## Publications
 
 ---
 
