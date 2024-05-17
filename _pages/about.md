@@ -2,9 +2,6 @@
 permalink: /
 title: "kchuang's Bio"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Bio
@@ -20,6 +17,9 @@ Education Background
 3. 2014-2018  Qingdao University, Bachelor of Software Engineering   
 
 
+redirect_from: 
+  - "/about/"
+  - "/about.html"
 
 
 
