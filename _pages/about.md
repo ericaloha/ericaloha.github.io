@@ -33,6 +33,9 @@ I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong
 
 ---
 
-[Google Schlar](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl))  & [DBLP](https://dblp.org/pid/295/7080.html)
+[Google Schlar](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [DBLP](https://dblp.org/pid/295/7080.html)
+
+
+- **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao, Feng Chen. "Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases". USENIX Conference on File and Storage Technologies (FAST) 2022. [pdf](https://www.usenix.org/system/files/fast22-huang.pdf) [slides](https://www.usenix.org/system/files/fast22_slides_huang.pdf)
 
 
