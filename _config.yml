@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "KC's site"
+title                    : "KC's Site"
 title_separator          : "-"
 name                     : &name "Kecheng HUANG"
 description              : &description "PhD candidate in CUHK"
@@ -21,7 +21,7 @@ repository               : "ericaloha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "kc.png"
   name             : "Kecheng HUANG (黄克成)"
   pronouns         : # example: "he/his"  
   bio              : "PhD candidate in CUHK"
