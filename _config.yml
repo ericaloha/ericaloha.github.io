@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kecheng HUANG"
+title                    : "KC's site"
 title_separator          : "-"
 name                     : &name "Kecheng HUANG"
 description              : &description "PhD candidate in CUHK"
