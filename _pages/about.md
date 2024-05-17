@@ -27,7 +27,7 @@ I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong
 
 ---
 
-- 2021-2022,       Two times Teaching Assistant for CSCI3150 Introduction to Operating Systems
+- 2021, 2022,       Teaching Assistant for CSCI3150 Introduction to Operating Systems
 
 # Publications
 
@@ -36,6 +36,6 @@ I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong
 [Google Schlar](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [DBLP](https://dblp.org/pid/295/7080.html)
 
 
-- **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao, Feng Chen. "Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases". USENIX Conference on File and Storage Technologies (FAST) 2022. [pdf](https://www.usenix.org/system/files/fast22-huang.pdf) [slides](https://www.usenix.org/system/files/fast22_slides_huang.pdf)
+- **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao, Feng Chen. "Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases". 20th USENIX Conference on File and Storage Technologies (FAST) 2022, Santa Clara, CA, USA, February 22-24, 2022. [pdf](https://www.usenix.org/system/files/fast22-huang.pdf) [slides](https://www.usenix.org/system/files/fast22_slides_huang.pdf)
 
-
+- **Kecheng Huang**, Zhiping Jia, Zhaoyan Shen, Zili Shao, Feng Chen. "Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM-tree". 37th IEEE International Conference on Data Engineering (ICDE) 2021, Chania, Greece, April 19-22, 2021.
