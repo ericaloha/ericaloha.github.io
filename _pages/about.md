@@ -1,20 +1,16 @@
 ---
 permalink: /
-title: "kchuang's Bio"
+title: "Bio"
 author_profile: true
 ---
 
-Bio
-======
-
-This is Kecheng HUANG, Year-3 PhD candidate at the Chinese University of Hong Kong, supervised by Prof. Zili SHAO.
-My current research interests are indexing, database systems, and storage systems. 
+I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong Kong, under the supervision of Professor Zili SHAO. My research focuses on indexing, database systems, and storage systems.
 
 Education Background
 ======
-1. 2021-  The Chinese University of Hong Kong, PhD Candidate
-2. 2018-2021  Shandong University, Master of Computer Science
-3. 2014-2018  Qingdao University, Bachelor of Software Engineering   
+2021-            The Chinese University of Hong Kong        PhD Candidate
+2018-2021        Shandong University                        Master of Computer Science
+2014-2018        Qingdao University                         Bachelor of Software Engineering   
 
 
 redirect_from: 
