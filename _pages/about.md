@@ -31,4 +31,8 @@ I am Kecheng HUANG, a third-year PhD candidate at the Chinese University of Hong
 
 # Publications
 
+---
+
+[Google Schlar]([https://mp.weixin.qq.com/s/s5IhxV2ooX3JN_X416nidA](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl))  & [DBLP](https://dblp.org/pid/295/7080.html)
+
 
