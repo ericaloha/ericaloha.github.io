@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am Kecheng HUANG (黄克成), a third-year PhD candidate at the Chinese University of Hong Kong, under the supervision of Professor **Zili SHAO**. My research focuses on indexing, database systems, and storage systems.
+I am Kecheng HUANG (黄克成), a fourth-year Ph.D. candidate at the Chinese University of Hong Kong, under the supervision of Professor **Zili SHAO**. My research focuses on indexing, database systems, and storage systems.
 
 ## Education Background
 
@@ -20,7 +20,7 @@ I am Kecheng HUANG (黄克成), a third-year PhD candidate at the Chinese Univer
 
 ---
 
-- 2024.06-,        Research Intern at Huawei
+- 2024.06-,        Research Intern at Noah's Ark Lab, Huawei (Hong Kong)
 - 2022.07,         CCF CHIP-2022  Invited PhD Forum Speaker
 
 ## Teaching
