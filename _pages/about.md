@@ -20,7 +20,6 @@ I am Kecheng HUANG (黄克成), a fourth-year Ph.D. candidate at the Chinese Uni
 
 ---
 
-- 2024.06-,        Research Intern at Noah's Ark Lab, Huawei (Hong Kong)
 - 2022.07,         CCF CHIP-2022  Invited PhD Forum Speaker
 
 ## Teaching
@@ -35,7 +34,11 @@ I am Kecheng HUANG (黄克成), a fourth-year Ph.D. candidate at the Chinese Uni
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
-- Xiangao Chen, Tianyu Wang, **Kecheng Huang (Corresponding Author)**, Zili Shao. "TPGraph: A Highly-scalable Time-partitioned Graph Model for Tracing Blockchain". The 17th ACM International Systems and Storage Conference (Systor 2024), Virtual Israel, September 23 - 24, 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3688351.3689161)
+- **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. "HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing", The 23rd USENIX Conference on File and Storage Technologies (FAST 2025), Santa Clara, CA, USA, February 25–27, 2025.
+
+- Zelin Du, Kecheng HUANG, Tianyu Wang, Xin Yao, Renhai Chen and Zili Shao, "A Practical Learning-Based FTL for Memory-Constrained Mobile Flash Storage", Design, Automation and Test in Europe Conference (DATE 2025), Lyon, France, 31 March - 2 April, 2025.
+
+- Xiangao Chen, Tianyu Wang, **Kecheng Huang (Corresponding Author)**, Zili Shao. "TPGraph: A Highly-scalable Time-partitioned Graph Model for Tracing Blockchain". The 17th ACM International Systems and Storage Conference (SYSTOR 2024), Virtual Israel, September 23 - 24, 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3688351.3689161)
 
 - **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. "Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives". The 50th International Conference on Very Large Databases (VLDB 2024), Guangzhou, China, August 25-29, 2024. [[pdf]](https://www.vldb.org/pvldb/vol17/p134-huang.pdf)
 
