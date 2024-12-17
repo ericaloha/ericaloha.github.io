@@ -36,7 +36,7 @@ I am Kecheng HUANG (黄克成), a fourth-year Ph.D. candidate at the Chinese Uni
 
 - **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. "HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing", The 23rd USENIX Conference on File and Storage Technologies (FAST 2025), Santa Clara, CA, USA, February 25–27, 2025.
 
-- Zelin Du, Kecheng HUANG, Tianyu Wang, Xin Yao, Renhai Chen and Zili Shao, "A Practical Learning-Based FTL for Memory-Constrained Mobile Flash Storage", Design, Automation and Test in Europe Conference (DATE 2025), Lyon, France, 31 March - 2 April, 2025.
+- Zelin Du, **Kecheng HUANG**, Tianyu Wang, Xin Yao, Renhai Chen and Zili Shao, "A Practical Learning-Based FTL for Memory-Constrained Mobile Flash Storage", Design, Automation and Test in Europe Conference (DATE 2025), Lyon, France, 31 March - 2 April, 2025.
 
 - Xiangao Chen, Tianyu Wang, **Kecheng Huang (Corresponding Author)**, Zili Shao. "TPGraph: A Highly-scalable Time-partitioned Graph Model for Tracing Blockchain". The 17th ACM International Systems and Storage Conference (SYSTOR 2024), Virtual Israel, September 23 - 24, 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3688351.3689161)
 
