@@ -19,8 +19,9 @@ I am Kecheng HUANG (黄克成), a fourth-year Ph.D. candidate at the Chinese Uni
 ## Research/Intern Experience
 
 ---
-
-- 2022.07,         CCF CHIP-2022  Invited PhD Forum Speaker
+- 2024-2025,       Intern: Huawei Research Center (Hong Kong) 
+- 2022.07,         CCF CHIP-2022: Invited PhD Forum Speaker
+- 2022.06,         Intern: Huawei Storage ProductLine 
 
 ## Teaching
 
