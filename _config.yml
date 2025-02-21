@@ -21,7 +21,7 @@ repository               : "ericaloha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kc.png"
+  avatar           : "hkc-brief.png"
   name             : "Kecheng HUANG"
   pronouns         : # example: "he/his"  
   bio              : "PhD candidate in CUHK"
