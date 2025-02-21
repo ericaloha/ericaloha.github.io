@@ -19,7 +19,7 @@ I am Kecheng HUANG (黄克成), a final year Ph.D. student at the Chinese Univer
 ## Research/Intern Experience
 
 ---
-- 2024-2025,       Intern: Huawei Research Center (Hong Kong) 
+- 2024-2025,       Intern: Huawei Hong Kong Research Center 
 - 2022.07,         CCF CHIP-2022: Invited PhD Forum Speaker
 - 2022.06,         Intern: Huawei Storage ProductLine 
 
