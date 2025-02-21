@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am Kecheng HUANG (黄克成), a fourth-year Ph.D. candidate at the Chinese University of Hong Kong, under the supervision of Professor [**Zili SHAO**](https://www.cse.cuhk.edu.hk/~shao/). My research focuses on indexing, database systems, and storage systems.
+I am Kecheng HUANG (黄克成), a final year Ph.D. student at the Chinese University of Hong Kong, under the supervision of Professor [**Zili SHAO**](https://www.cse.cuhk.edu.hk/~shao/). My research focuses on indexing, database systems, and storage systems.
 
 ## Education Background
 
