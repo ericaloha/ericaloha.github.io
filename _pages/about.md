@@ -11,17 +11,16 @@ I am Kecheng HUANG (黄克成), a final year Ph.D. student at the Chinese Univer
 
 ---
 
-- 2021-,          The Chinese University of Hong Kong,        PhD Candidate
+- 2021-2025,      The Chinese University of Hong Kong,        PhD of Computer Science and Engineering
 - 2018-2021,      Shandong University,                        Master of Computer Science
 - 2014-2018,      Qingdao University,                         Bachelor of Software Engineering   
 
 
 ## Research/Intern Experience
 
----
-- 2024-2025,       Intern: Huawei Hong Kong Research Center 
+--- 
 - 2022.07,         CCF CHIP-2022: Invited PhD Forum Speaker
-- 2022.06,         Intern: Huawei Storage ProductLine 
+- 
 
 ## Teaching
 
