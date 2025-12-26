@@ -5,28 +5,30 @@ author_profile: true
 
 ---
 
-I am Kecheng HUANG (黄克成), a final year Ph.D. student at the Chinese University of Hong Kong, under the supervision of Professor [**Zili SHAO**](https://www.cse.cuhk.edu.hk/~shao/). My research focuses on indexing, database systems, and storage systems.
+I am Kecheng HUANG (黄克成), will join the Beijing Institute of Technology (Zhuhai) as a faculty member. Positions are open for Postdoctoral Researchers, PhD students, Master students, and undergraduate interns. My research spans novel computer arhitectures and system designs, databases, storage, AI4Sys and Sys4AI. Please feel free to contact me.
+
+I am currently a post-doctoral fellow in the CSE department in The Chinese University of Hong Kong (CUHK), supervised by Prof. [Zili Shao](http://www.cse.cuhk.edu.hk/~shao/). I obtained my PhD degree in CUHK, supervised by Prof. Zili Shao in 2023. During my Ph.D. period, I also establish cohesive research collaboration with both acdemia ([Prof. Feng Chen at IUB](https://homes.luddy.indiana.edu/fchen25/) and [Prof. Tong Zhang at RPI](https://sites.ecse.rpi.edu/~tzhang/)) and industry ([Huawei Hong Kong Research Center](https://career.huawei.com/reccampportal/hk/portal/huaweilife.html) and [Huawei Storage ProductLine](https://e.huawei.com/cn/products/storage)).
 
 ## Education Background
 
 ---
+2021-2025,      The Chinese University of Hong Kong,        PhD of Computer Science and Engineering
 
-- 2021-2025,      The Chinese University of Hong Kong,        PhD of Computer Science and Engineering
-- 2018-2021,      Shandong University,                        Master of Computer Science
-- 2014-2018,      Qingdao University,                         Bachelor of Software Engineering   
+2018-2021,      Shandong University,                        Master of Computer Science
 
-
-## Research/Intern Experience
-
---- 
-- 2022.07,         CCF CHIP-2022: Invited PhD Forum Speaker
+2014-2018,      Qingdao University,                         Bachelor of Software Engineering   
 
 
-## Teaching
+## Research Intrersts
 
----
+Computer Archiecture & System Design
 
-- 2021, 2022,       Teaching Assistant for CSCI3150 Introduction to Operating Systems
+Novel Storage Hardware and Applications
+
+Database systems, indexing
+
+AI4Sys & Sys4AI
+
 
 ## Publications
 
@@ -34,20 +36,30 @@ I am Kecheng HUANG (黄克成), a final year Ph.D. student at the Chinese Univer
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
-- **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. "HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing", The 23rd USENIX Conference on File and Storage Technologies (FAST 2025), Santa Clara, CA, USA, February 25–27, 2025.
+1.	** Kecheng Huang **, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing. USENIX Conference on File and Storage Technologies (FAST), 2025: 305-320. (CCF-A Conference)
 
-- Zelin Du, **Kecheng HUANG**, Tianyu Wang, Xin Yao, Renhai Chen and Zili Shao, "A Practical Learning-Based FTL for Memory-Constrained Mobile Flash Storage", Design, Automation and Test in Europe Conference (DATE 2025), Lyon, France, 31 March - 2 April, 2025.
+2.	**Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao and Feng Chen. Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases. USENIX Conference on File and Storage Technologies (FAST), 2022: 101-116. (CCF-A Conference)
 
-- Xiangao Chen, Tianyu Wang, **Kecheng Huang (Corresponding Author)**, Zili Shao. "TPGraph: A Highly-scalable Time-partitioned Graph Model for Tracing Blockchain". The 17th ACM International Systems and Storage Conference (SYSTOR 2024), Virtual Israel, September 23 - 24, 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3688351.3689161)
+3.	**Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives. International Conference on Very Large Databases (VLDB), 2024: 17 (2): 134-147. (CCF-A Conference)
 
-- **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. "Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives". The 50th International Conference on Very Large Databases (VLDB 2024), Guangzhou, China, August 25-29, 2024. [[pdf]](https://www.vldb.org/pvldb/vol17/p134-huang.pdf)
+4.	**Kecheng Huang**, Xijun Li, Mingxuan Yuan, Ji Zhang and Zili Shao. Joint Directory, File and IO Trace Feature Extraction and Feature-based Trace Regeneration for Enterprise Storage Systems. IEEE International Conference on Data Engineering (ICDE), 2024: 4002-4015. (CCF-A Conference)
 
-- Zelin Du, Shaoqi Li, Zixuan Huang, Jin Xue, Tianyu Wang, **Kecheng Huang** and Zili Shao. "PipeSSD: A Lock-free Pipelined SSD Firmware Design for Multi-core Architecture". The 61th Design Automation Conference (DAC 2024), San Francisco, CA, USA, June 23-27, 2024.
+5.	**Kecheng Huang**, Zhiping Jia, Zhaoyan Shen, Zili Shao and Feng Chen. Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM Tree. IEEE International Conference on Data Engineering (ICDE), 2021: 612-623. (CCF-A Conference)
 
-- **Kecheng Huang**, Xijun Li, Mingxuan Yuan, Ji Zhang and Zili Shao. "Joint Directory, File and IO Trace Feature Extraction and Feature-based Trace Regeneration for Enterprise Storage Systems". The 40th International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 13-17, 2024.
+6.	Xiangao Chen, Tianyu Wang, **Kecheng Huang*** (Corresponding Author), Zili Shao. TPGraph: A Highly-scalable Time-partitioned Graph Model for Tracing Blockchain. ACM International Systems and Storage Conference (SYSTOR), 2024: 25-38. (CCF-C Conference)
 
-- **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao, Feng Chen. "Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases". The 20th USENIX Conference on File and Storage Technologies (FAST 2022), Santa Clara, CA, USA, February 22-24, 2022. [[pdf]](https://www.usenix.org/system/files/fast22-huang.pdf) [[slides]](https://www.usenix.org/system/files/fast22_slides_huang.pdf)
+7.	Zixuan Huang, Tianyu Wang, **Kecheng Huang**, Zelin Du, Zili Shao. Expanding Logical Space Freely: A Memory-efficient Mapping Table Design for Compressional SSDs. ACM/IEEE Design Automation Conference (DAC), 2025: 1-6. (CCF-A Conference)
 
-- **Kecheng Huang**, Zhiping Jia, Zhaoyan Shen, Zili Shao, Feng Chen. "Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM-tree". The 37th IEEE International Conference on Data Engineering (ICDE 2021), Chania, Greece, April 19-22, 2021. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458751)
+8.	Zelin Du, Shaoqi Li, Zixuan Huang, Jin Xue, **Kecheng Huang**, Tianyu Wang, Zili Shao. PipeSSD: A Lock-free Pipelined SSD Firmware Design for Multi-core Architecture. ACM/IEEE Design Automation Conference (DAC), 2024: 1-6. (CCF-A Conference)
+
+9.	Zelin Du, **Kecheng Huang**, Tianyu Wang, Xin Yao, Renhai Chen, Zili Shao. A Practical Learning-Based FTL for Memory Constrained Mobile Flash Storage. Design, Automation & Test in Europe Conference (DATE), 2025: 1-7. (CCF-B Conference)
+
+## Services
+
+中国计算机学会	存储专委/体系结构专委		执行委员
+
+Reviewer: DAC，ICCAD, etc.
+
+
 
 
