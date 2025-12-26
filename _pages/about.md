@@ -5,9 +5,9 @@ author_profile: true
 
 ---
 
-I am Kecheng Huang (黄克成), will join the Beijing Institute of Technology (Zhuhai) as a faculty member. I am currently seeking candidates for several positions, including Postdoctoral Researchers, PhD students, Master's students, and undergraduate interns. My research interests encompass novel computer architectures, system designs, databases, storage solutions, AI for Systems (AI4Sys), and Systems for AI (Sys4AI). For inquiries or collaboration opportunities, please feel free to reach out to me.
+I am Kecheng Huang (黄克成), will join the Beijing Institute of Technology (Zhuhai) as a faculty member. I am currently seeking candidates for several positions, including Postdoctoral Researchers, PhD students, Master's students, and undergraduate interns. My research interests encompass novel computer architectures, system designs, databases, storage, AI4Sys, and Sys4AI. For inquiries or collaboration opportunities, please feel free to reach out to me.
 
-I am currently a post-doctoral fellow in the CSE department in The Chinese University of Hong Kong (CUHK), supervised by Prof. [Zili Shao](http://www.cse.cuhk.edu.hk/~shao/). I obtained my PhD degree in CUHK, supervised by Prof. Zili Shao in 2023. During my Ph.D. period, I also establish cohesive research collaboration with both acdemia ([Prof. Feng Chen at IUB](https://homes.luddy.indiana.edu/fchen25/) and [Prof. Tong Zhang at RPI](https://sites.ecse.rpi.edu/~tzhang/)) and industry ([Huawei Hong Kong Research Center](https://career.huawei.com/reccampportal/hk/portal/huaweilife.html) and [Huawei Storage ProductLine](https://e.huawei.com/cn/products/storage)).
+I am currently a post-doctoral fellow in the CSE Department at The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Zili Shao]((http://www.cse.cuhk.edu.hk/~shao/)). I obtained my PhD degree at CUHK in 2025, also guided by Prof. Shao. During my doctoral studies, I engaged in sustained research collaborations with both academia ([Prof. Feng Chen at IUB](https://homes.luddy.indiana.edu/fchen25/) and [Prof. Tong Zhang at RPI](https://sites.ecse.rpi.edu/~tzhang/)), and industry partners ([Huawei Hong Kong Research Center](https://career.huawei.com/reccampportal/hk/portal/huaweilife.html) and [Huawei Storage Product Line](https://e.huawei.com/cn/products/storage)).
 
 ## Education Background
 
