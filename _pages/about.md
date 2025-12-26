@@ -36,7 +36,7 @@ AI4Sys & Sys4AI
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
-1.	** Kecheng Huang **, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing. USENIX Conference on File and Storage Technologies (FAST), 2025: 305-320. (CCF-A Conference)
+1.	**Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing. USENIX Conference on File and Storage Technologies (FAST), 2025: 305-320. (CCF-A Conference)
 
 2.	**Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao and Feng Chen. Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases. USENIX Conference on File and Storage Technologies (FAST), 2022: 101-116. (CCF-A Conference)
 
