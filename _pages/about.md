@@ -9,23 +9,13 @@ I am Kecheng Huang (黄克成), will join the Beijing Institute of Technology (Z
 
 I am currently a post-doctoral fellow in the CSE Department at The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Zili Shao]((http://www.cse.cuhk.edu.hk/~shao/)). I obtained my PhD degree at CUHK in 2025, also guided by Prof. Shao. During my doctoral studies, I engaged in sustained research collaborations with both academia ([Prof. Feng Chen at IUB](https://homes.luddy.indiana.edu/fchen25/) and [Prof. Tong Zhang at RPI](https://sites.ecse.rpi.edu/~tzhang/)), and industry partners ([Huawei Hong Kong Research Center](https://career.huawei.com/reccampportal/hk/portal/huaweilife.html) and [Huawei Storage Product Line](https://e.huawei.com/cn/products/storage)).
 
-## Education Background
-
----
-2021-2025,      The Chinese University of Hong Kong,        PhD of Computer Science and Engineering
-
-2018-2021,      Shandong University,                        Master of Computer Science
-
-2014-2018,      Qingdao University,                         Bachelor of Software Engineering   
-
-
 ## Research Intrersts
 
 Computer Archiecture & System Design
 
 Novel Storage Hardware and Applications
 
-Database systems, indexing
+Database systems, Indexing
 
 AI4Sys & Sys4AI
 
@@ -54,7 +44,7 @@ AI4Sys & Sys4AI
 
 9.	Zelin Du, **Kecheng Huang**, Tianyu Wang, Xin Yao, Renhai Chen, Zili Shao. A Practical Learning-Based FTL for Memory Constrained Mobile Flash Storage. Design, Automation & Test in Europe Conference (DATE), 2025: 1-7. (CCF-B Conference)
 
-## Services
+## Service
 
 中国计算机学会	存储专委/体系结构专委		执行委员
 
