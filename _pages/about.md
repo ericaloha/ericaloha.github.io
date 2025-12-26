@@ -15,7 +15,7 @@ Computer Archiecture & System Design
 
 Novel Storage Hardware and Applications
 
-Database systems, Indexing
+Database and Indexing
 
 AI4Sys & Sys4AI
 
