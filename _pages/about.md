@@ -26,7 +26,7 @@ AI4Sys & Sys4AI
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
-1.**Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. A Single-Index Store for Hybrid Transactional and Analytical Processing on ModernComputational Storage Drives. ACM Transactions on Computer Systems (TOCS). (CCF-A Journal, Just Accepted)
+1. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. A Single-Index Store for Hybrid Transactional and Analytical Processing on ModernComputational Storage Drives. ACM Transactions on Computer Systems (TOCS). (CCF-A Journal, Just Accepted)
 2. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing. USENIX Conference on File and Storage Technologies (FAST), 2025: 305-320. (CCF-A Conference)
 3. **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao and Feng Chen. Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases. USENIX Conference on File and Storage Technologies (FAST), 2022: 101-116. (CCF-A Conference)
 4. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives. International Conference on Very Large Databases (VLDB), 2024: 17 (2): 134-147. (CCF-A Conference)
