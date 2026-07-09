@@ -26,12 +26,21 @@ AI4Sys & Sys4AI
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
+### Journal Papers
+
 1. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. A Single-Index Store for Hybrid Transactional and Analytical Processing on ModernComputational Storage Drives. ACM Transactions on Computer Systems (TOCS). (CCF-A Journal, Just Accepted)
-2. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing. USENIX Conference on File and Storage Technologies (FAST), 2025: 305-320. (CCF-A Conference)
-3. **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao and Feng Chen. Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases. USENIX Conference on File and Storage Technologies (FAST), 2022: 101-116. (CCF-A Conference)
-4. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives. International Conference on Very Large Databases (VLDB), 2024: 17 (2): 134-147. (CCF-A Conference)
-5. **Kecheng Huang**, Xijun Li, Mingxuan Yuan, Ji Zhang and Zili Shao. Joint Directory, File and IO Trace Feature Extraction and Feature-based Trace Regeneration for Enterprise Storage Systems. IEEE International Conference on Data Engineering (ICDE), 2024: 4002-4015. (CCF-A Conference)
-6. **Kecheng Huang**, Zhiping Jia, Zhaoyan Shen, Zili Shao and Feng Chen. Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM Tree. IEEE International Conference on Data Engineering (ICDE), 2021: 612-623. (CCF-A Conference)
+2. **Kecheng Huang**, Canran Liu, Zhaoyan Shen, Zili Shao, Feng Chen. A Passive and Hybrid Data Persistence Scheme for LSM-tree based Relational Databases. ACM Transactions on Storage (TOS). (CCF-A Journal, Just Accepted)
+3. **Kecheng Huang**, Minyang Bao, Kai Zhang, Nan Su, Zhaoyan Shen, Zili Shao. Reducing I/O Amplification for Key-Value Stores with a Log-Assisted Log-Structured Merge Tree. IEEE Transactions on Knowledge and Data Engineering (TKDE). (CCF-A Journal, Just Accepted)
+
+
+### Conference Papers
+
+1. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing. USENIX Conference on File and Storage Technologies (FAST), 2025: 305-320. (CCF-A Conference)
+2. **Kecheng Huang**, Zhaoyan Shen, Zhiping Jia, Zili Shao and Feng Chen. Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases. USENIX Conference on File and Storage Technologies (FAST), 2022: 101-116. (CCF-A Conference)
+3. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives. International Conference on Very Large Databases (VLDB), 2024: 17 (2): 134-147. (CCF-A Conference)
+4. **Kecheng Huang**, Xijun Li, Mingxuan Yuan, Ji Zhang and Zili Shao. Joint Directory, File and IO Trace Feature Extraction and Feature-based Trace Regeneration for Enterprise Storage Systems. IEEE International Conference on Data Engineering (ICDE), 2024: 4002-4015. (CCF-A Conference)
+5. **Kecheng Huang**, Zhiping Jia, Zhaoyan Shen, Zili Shao and Feng Chen. Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM Tree. IEEE International Conference on Data Engineering (ICDE), 2021: 612-623. (CCF-A Conference)
+6. **Kecheng Huang**, Jiaxian Chen, Chenlin Ma, Yi Wang, Yuan Liu and Rui Mao. Hope: Differentiated Backbone-Expansion ANNS Updates via In-Storage Computing. Non-Volatile Memory Systems and Applications Symposium (NVMSA, **Outstanding Paper**)
 7. Jiaxian Chen, Haoran Duan, Zhenxuan Ou, Qin Chen, Shangyu Wu, **Kecheng Huang*** (Corresponding Author), Rui Mao and Yi Wang. FreeBit: Unleashing the Performance Potential of Low-Bit LLMs through PIM. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted).
 8. Yi Wang, Yongxin Shen, Yongbiao Zhu, Tianyu Wang, Chenlin Ma, Jiaxian Chen, **Kecheng Huang*** (Corresponding Author) and Rui Mao. SpecANNS: Accelerating Graph-based Approximate Nearest Neighbor Search with Speculative In-Storage Computing. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted)。
 9. Chenlin Ma, Yongbiao Zhu, Tianyu Wang, Jiaxian Chen, **Kecheng Huang**, Rui Mao and Yi Wang. EtherSSD: An In-Storage Ethereum Analytics Platform with Minimized I/O and Authentication Overhead. ACM/IEEE Design Automation Conference，DAC 2026 (Just Accepted).
@@ -47,7 +56,7 @@ AI4Sys & Sys4AI
 
 中国计算机学会	存储专委/体系结构专委		执行委员
 
-Reviewer: DAC，ICCAD, etc.
+Reviewer: TC, TCAD, DAC，ICCD, ICCAD, etc.
 
 
 
