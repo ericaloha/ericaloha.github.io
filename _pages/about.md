@@ -26,6 +26,7 @@ AI4Sys & Sys4AI
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
+
 ### Journal Papers
 
 1. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. A Single-Index Store for Hybrid Transactional and Analytical Processing on ModernComputational Storage Drives. ACM Transactions on Computer Systems (TOCS). (CCF-A Journal, Just Accepted)
