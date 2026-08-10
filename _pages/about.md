@@ -11,13 +11,19 @@ I was a post-doctoral fellow in the CSE Department at The Chinese University of 
 
 ## Research Intrersts
 
-Computer Archiecture & System Design
+Computer Architecture & System Design
 
 Novel Storage Hardware and Applications
 
 Database and Indexing
 
 AI4Sys & Sys4AI
+
+## Funding
+
+1. Teli Young Fellow. Beijing Institute of Technology. (Fund: 1M)
+2. Pearl River Talent Program (广东省青拔). Department of Science and Technology of Guangdong Province. (Fund: 0.5M)
+3. Data Agentic for Cloud-Native Database. CCF-Tencent Rhino-Bird Fund. (Fund: 150K)
 
 
 ## Publications
@@ -26,12 +32,18 @@ AI4Sys & Sys4AI
 
 [[google scholar]](https://scholar.google.com/citations?user=rPhW368AAAAJ&hl)  & [[dblp]](https://dblp.org/pid/295/7080.html)
 
+### Preprint Papers
+
+1. Zixuan Huang, **Kecheng Huang**, Lihao Yin, Bowei He, Huiling Zhen, Mingxuan Yuan, Zili Shao. Attention-aware gnn-based input defense against multi-turn llm jailbreak. arXiv preprint arXiv:2507.07146.
+2. Yutang Ma, **Kecheng Huang**, Xikun Jiang, Zili Shao. TF-Engram: A Train-Free Engram with SSD-Backed Memory for Large Language Models. arXiv preprint arXiv:2607.07388.
+3. Yutang MA, **Kecheng HUANG**, Xikun JIANG, Meiling WANG, Xin YAO, Renhai CHEN, Gong ZHANG, Zili SHAO. CS-PQ: Cache-Friendly SIMD Product Quantization for Large-Scale ANNS Index Construction. arXiv preprint arXiv:2605.25521.
+
 
 ### Journal Papers
 
-1. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. A Single-Index Store for Hybrid Transactional and Analytical Processing on ModernComputational Storage Drives. ACM Transactions on Computer Systems (TOCS). (CCF-A Journal, Just Accepted)
-2. **Kecheng Huang**, Canran Liu, Zhaoyan Shen, Zili Shao, Feng Chen. A Passive and Hybrid Data Persistence Scheme for LSM-tree based Relational Databases. ACM Transactions on Storage (TOS). (CCF-A Journal, Just Accepted)
-3. **Kecheng Huang**, Minyang Bao, Kai Zhang, Nan Su, Zhaoyan Shen, Zili Shao. Reducing I/O Amplification for Key-Value Stores with a Log-Assisted Log-Structured Merge Tree. IEEE Transactions on Knowledge and Data Engineering (TKDE). (CCF-A Journal, Just Accepted)
+1. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Feng Chen and Tong Zhang. A Single-Index Store for Hybrid Transactional and Analytical Processing on ModernComputational Storage Drives. ACM Transactions on Computer Systems (TOCS). (CCF-A Journal)
+2. **Kecheng Huang**, Canran Liu, Zhaoyan Shen, Zili Shao, Feng Chen. A Passive and Hybrid Data Persistence Scheme for LSM-tree based Relational Databases. ACM Transactions on Storage (TOS). (CCF-A Journal)
+3. **Kecheng Huang**, Minyang Bao, Kai Zhang, Nan Su, Zhaoyan Shen, Zili Shao. Reducing I/O Amplification for Key-Value Stores with a Log-Assisted Log-Structured Merge Tree. IEEE Transactions on Knowledge and Data Engineering (TKDE). (CCF-A Journal)
 
 
 ### Conference Papers
@@ -41,13 +53,13 @@ AI4Sys & Sys4AI
 3. **Kecheng Huang**, Zhaoyan Shen, Zili Shao, Tong Zhang and Feng Chen. Breathing New Life into An Old Tree: Resolving Logging Dilemma of B+-tree on Modern Computational Storage Drives. International Conference on Very Large Databases (VLDB), 2024: 17 (2): 134-147. (CCF-A Conference)
 4. **Kecheng Huang**, Xijun Li, Mingxuan Yuan, Ji Zhang and Zili Shao. Joint Directory, File and IO Trace Feature Extraction and Feature-based Trace Regeneration for Enterprise Storage Systems. IEEE International Conference on Data Engineering (ICDE), 2024: 4002-4015. (CCF-A Conference)
 5. **Kecheng Huang**, Zhiping Jia, Zhaoyan Shen, Zili Shao and Feng Chen. Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM Tree. IEEE International Conference on Data Engineering (ICDE), 2021: 612-623. (CCF-A Conference)
-6. **Kecheng Huang**, Jiaxian Chen, Chenlin Ma, Yi Wang, Yuan Liu and Rui Mao. Hope: Differentiated Backbone-Expansion ANNS Updates via In-Storage Computing. Non-Volatile Memory Systems and Applications Symposium (NVMSA, **Outstanding Paper**)
-7. Jiaxian Chen, Haoran Duan, Zhenxuan Ou, Qin Chen, Shangyu Wu, **Kecheng Huang*** (Corresponding Author), Rui Mao and Yi Wang. FreeBit: Unleashing the Performance Potential of Low-Bit LLMs through PIM. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted).
-8. Yi Wang, Yongxin Shen, Yongbiao Zhu, Tianyu Wang, Chenlin Ma, Jiaxian Chen, **Kecheng Huang*** (Corresponding Author) and Rui Mao. SpecANNS: Accelerating Graph-based Approximate Nearest Neighbor Search with Speculative In-Storage Computing. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted)。
-9. Chenlin Ma, Yongbiao Zhu, Tianyu Wang, Jiaxian Chen, **Kecheng Huang**, Rui Mao and Yi Wang. EtherSSD: An In-Storage Ethereum Analytics Platform with Minimized I/O and Authentication Overhead. ACM/IEEE Design Automation Conference，DAC 2026 (Just Accepted).
-10. Zhaoyu Zhong, Yunhao Dong, Yaodong Zhang, Jiaxian Chen, Tianyu Wang, Chenlin Ma, Rui Mao, **Kecheng Huang**, and Yi Wang. PIMGRAG: A Heterogeneous PIM Architecture for Graph-based Retrieval-Augmented Generation. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted).
-11. Yi Wang, Yang Zheng, Tianyu Wang, Chenlin Ma, Jiaxian Chen, **Kecheng Huang**, Jianbin Qin and Rui Mao. VALVE: Accelerating Visible Version Searching in HTAP systems via In-Storage Computing. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted).
-12. Ying Zhang, Chao Li, Xiaowei Chen, Tianyu Wang, Chenlin Ma, Zhaoyan Shen, Jiaxian Chen and **Kecheng Huang**. TierANNS: Scalable Graph-based ANNS with CXL-enabled Tiered Data Placement. ACM/IEEE Design Automation Conference, DAC 2026 (Just Accepted).
+6. **Kecheng Huang**, Jiaxian Chen, Chenlin Ma, Yi Wang, Yuan Liu and Rui Mao. Hope: Differentiated Backbone-Expansion ANNS Updates via In-Storage Computing. Non-Volatile Memory Systems and Applications Symposium (NVMSA, **Outstanding paper**)
+7. Jiaxian Chen, Haoran Duan, Zhenxuan Ou, Qin Chen, Shangyu Wu, **Kecheng Huang*** (Corresponding Author), Rui Mao and Yi Wang. FreeBit: Unleashing the Performance Potential of Low-Bit LLMs through PIM. ACM/IEEE Design Automation Conference, DAC 2026. (CCF-A Conference)
+8. Yi Wang, Yongxin Shen, Yongbiao Zhu, Tianyu Wang, Chenlin Ma, Jiaxian Chen, **Kecheng Huang*** (Corresponding Author) and Rui Mao. SpecANNS: Accelerating Graph-based Approximate Nearest Neighbor Search with Speculative In-Storage Computing. ACM/IEEE Design Automation Conference, DAC 2026. (CCF-A Conference)
+9. Chenlin Ma, Yongbiao Zhu, Tianyu Wang, Jiaxian Chen, **Kecheng Huang**, Rui Mao and Yi Wang. EtherSSD: An In-Storage Ethereum Analytics Platform with Minimized I/O and Authentication Overhead. ACM/IEEE Design Automation Conference，DAC 2026. (CCF-A Conference)
+10. Zhaoyu Zhong, Yunhao Dong, Yaodong Zhang, Jiaxian Chen, Tianyu Wang, Chenlin Ma, Rui Mao, **Kecheng Huang**, and Yi Wang. PIMGRAG: A Heterogeneous PIM Architecture for Graph-based Retrieval-Augmented Generation. ACM/IEEE Design Automation Conference, DAC 2026. (CCF-A Conference)
+11. Yi Wang, Yang Zheng, Tianyu Wang, Chenlin Ma, Jiaxian Chen, **Kecheng Huang**, Jianbin Qin and Rui Mao. VALVE: Accelerating Visible Version Searching in HTAP systems via In-Storage Computing. ACM/IEEE Design Automation Conference, DAC 2026. (CCF-A Conference)
+12. Ying Zhang, Chao Li, Xiaowei Chen, Tianyu Wang, Chenlin Ma, Zhaoyan Shen, Jiaxian Chen and **Kecheng Huang**. TierANNS: Scalable Graph-based ANNS with CXL-enabled Tiered Data Placement. ACM/IEEE Design Automation Conference, DAC 2026. (CCF-A Conference)
 13. Xiangao Chen, Tianyu Wang, **Kecheng Huang*** (Corresponding Author), Zili Shao. TPGraph: A Highly-scalable Time-partitioned Graph Model for Tracing Blockchain. ACM International Systems and Storage Conference (SYSTOR), 2024: 25-38. (CCF-C Conference)
 14. Zixuan Huang, Tianyu Wang, **Kecheng Huang**, Zelin Du, Zili Shao. Expanding Logical Space Freely: A Memory-efficient Mapping Table Design for Compressional SSDs. ACM/IEEE Design Automation Conference (DAC), 2025: 1-6. (CCF-A Conference)
 15. Zelin Du, Shaoqi Li, Zixuan Huang, Jin Xue, **Kecheng Huang**, Tianyu Wang, Zili Shao. PipeSSD: A Lock-free Pipelined SSD Firmware Design for Multi-core Architecture. ACM/IEEE Design Automation Conference (DAC), 2024: 1-6. (CCF-A Conference)
